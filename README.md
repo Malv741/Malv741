@@ -16,7 +16,7 @@ Nome = "Vitor Gabriel";
 Idade = 18;
 Local = "Londrina - PR";
 Hablo = "Português", "Inglês";
-
+Linguagens = Python, Java Scritp, HTML, CSS.
 ```
 
 
