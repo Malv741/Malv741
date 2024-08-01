@@ -15,7 +15,7 @@ class SobreMim extends from Dev {
 Nome = "Vitor Gabriel";
 Idade = 18;
 Local = "Londrina - PR";
-Hablo = "Português", "Inglês";
+Idiomas = "Português", "Inglês";
 Linguagens = Python, Java Scritp, HTML, CSS.
 ```
 
